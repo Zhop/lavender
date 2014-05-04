@@ -17,5 +17,5 @@
 @stop
 
 @section('content')
-    Actual content and such will be here.
+    Wow it's some amazing default content.
 @stop

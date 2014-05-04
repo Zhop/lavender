@@ -112,7 +112,8 @@ return array(
 		'Lavender\Cms\CmsServiceProvider',          // home, page, post
 		'Lavender\Pos\PosServiceProvider',          // buylist, cart, order
 		'Lavender\Crm\CrmServiceProvider',          // reports, customer, integrations
-                'Lavender\Poll\PollServiceProvider', 
+                'Lavender\Poll\PollServiceProvider',
+                'Lavender\Layout\LayoutServiceProvider'
 	),
 
 	/*
